@@ -1,0 +1,257 @@
+[LOG] Loading configuration...
+[LOG] Configuration loaded successfully: OpenTrack=127.0.0.1:4343, Hotkey=R, Xreal=169.254.2.1:52998
+[LOG] Starting XrealTrack tray app...
+[LOG] Initializing USB HID context...
+[LOG] Device Found -> VID: 046d, PID: c52b, Product string: USB Receiver, Interface: 1, Path: "\\\\?\\HID#VID_046D&PID_C52B&MI_01&Col02#a&23fe5a65&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 046d, PID: c52b, Product string: USB Receiver, Interface: 1, Path: "\\\\?\\HID#VID_046D&PID_C52B&MI_01&Col03#a&23fe5a65&0&0002#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 046d, PID: c52b, Product string: USB Receiver, Interface: 1, Path: "\\\\?\\HID#VID_046D&PID_C52B&MI_01&Col04#a&23fe5a65&0&0003#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: fe0f, PID: 00ff, Product string: FakerInput Device, Interface: -1, Path: "\\\\?\\HID#SYSTEM&Col02#1&431a56f&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 046d, PID: c232, Product string: , Interface: -1, Path: "\\\\?\\HID#VID_046D&PID_C232#2&b4b7c37&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}\\KBD"
+[LOG] Device Found -> VID: 046d, PID: c52b, Product string: USB Receiver, Interface: 0, Path: "\\\\?\\HID#VID_046D&PID_C52B&MI_00#a&c3ace20&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}\\KBD"
+[LOG] Device Found -> VID: fe0f, PID: 00ff, Product string: FakerInput Device, Interface: -1, Path: "\\\\?\\HID#SYSTEM&Col03#1&431a56f&0&0002#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 046d, PID: c52b, Product string: USB Receiver, Interface: 0, Path: "\\\\?\\HID#VID_046D&PID_C52B&MI_00#9&370a68&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}\\KBD"
+[LOG] Device Found -> VID: 046d, PID: c277, Product string: RS Pedals, Interface: 1, Path: "\\\\?\\HID#VID_046D&PID_C277&MI_01&Col01#a&2e7a9898&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 046d, PID: c52b, Product string: USB Receiver, Interface: 2, Path: "\\\\?\\HID#VID_046D&PID_C52B&MI_02&Col02#a&271ca3&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 0b05, PID: 19af, Product string: AURA LED Controller, Interface: 2, Path: "\\\\?\\HID#VID_0B05&PID_19AF&MI_02#a&31961952&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 046d, PID: c277, Product string: RS Pedals, Interface: 1, Path: "\\\\?\\HID#VID_046D&PID_C277&MI_01&Col02#a&2e7a9898&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 1234, PID: bead, Product string: vJoy - Virtual Joystick, Interface: -1, Path: "\\\\?\\HID#HIDCLASS#1&2d595ca7&4&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 046d, PID: c52b, Product string: USB Receiver, Interface: 1, Path: "\\\\?\\HID#VID_046D&PID_C52B&MI_01&Col01#9&17fa96ad&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 046d, PID: c52b, Product string: USB Receiver, Interface: 1, Path: "\\\\?\\HID#VID_046D&PID_C52B&MI_01&Col02#9&17fa96ad&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: fe0f, PID: 00ff, Product string: FakerInput Device, Interface: -1, Path: "\\\\?\\HID#SYSTEM&Col04#1&431a56f&0&0003#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: fe0f, PID: 00ff, Product string: FakerInput Device, Interface: -1, Path: "\\\\?\\HID#SYSTEM&Col01#1&431a56f&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}\\KBD"
+[LOG] Device Found -> VID: 046d, PID: c52b, Product string: USB Receiver, Interface: 1, Path: "\\\\?\\HID#VID_046D&PID_C52B&MI_01&Col03#9&17fa96ad&0&0002#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 046d, PID: c52b, Product string: USB Receiver, Interface: 1, Path: "\\\\?\\HID#VID_046D&PID_C52B&MI_01&Col04#9&17fa96ad&0&0003#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 3318, PID: 0436, Product string: XREAL One Pro, Interface: 0, Path: "\\\\?\\HID#VID_3318&PID_0436&MI_00#a&2644af27&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 0d8c, PID: 0005, Product string: Blue Snowball , Interface: 2, Path: "\\\\?\\HID#VID_0D8C&PID_0005&MI_02#c&2be8a553&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: fe0f, PID: 00ff, Product string: FakerInput Device, Interface: -1, Path: "\\\\?\\HID#SYSTEM&Col05#1&431a56f&0&0004#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 046d, PID: c52b, Product string: USB Receiver, Interface: 2, Path: "\\\\?\\HID#VID_046D&PID_C52B&MI_02&Col01#9&2fbe22f2&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 046d, PID: c52b, Product string: USB Receiver, Interface: 2, Path: "\\\\?\\HID#VID_046D&PID_C52B&MI_02&Col02#9&2fbe22f2&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 046d, PID: c52b, Product string: USB Receiver, Interface: 2, Path: "\\\\?\\HID#VID_046D&PID_C52B&MI_02&Col03#9&2fbe22f2&0&0002#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 046d, PID: c52b, Product string: USB Receiver, Interface: 2, Path: "\\\\?\\HID#VID_046D&PID_C52B&MI_02&Col03#a&271ca3&0&0002#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 3318, PID: 0436, Product string: XREAL One Pro, Interface: 5, Path: "\\\\?\\HID#VID_3318&PID_0436&MI_05#a&15b9f195&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: fe0f, PID: 00ff, Product string: FakerInput Device, Interface: -1, Path: "\\\\?\\HID#SYSTEM&Col06#1&431a56f&0&0005#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 046d, PID: c52b, Product string: USB Receiver, Interface: 2, Path: "\\\\?\\HID#VID_046D&PID_C52B&MI_02&Col01#a&271ca3&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 046d, PID: c277, Product string: RS Pedals, Interface: 0, Path: "\\\\?\\HID#VID_046D&PID_C277&MI_00#a&36789598&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 046d, PID: c52b, Product string: USB Receiver, Interface: 1, Path: "\\\\?\\HID#VID_046D&PID_C52B&MI_01&Col01#a&23fe5a65&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Found XReal One Pro Endpoint (vendor: 3318, product: 0436) -> Interface: 0, Path: "\\\\?\\HID#VID_3318&PID_0436&MI_00#a&2644af27&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Opening targeted control interface (Interface 0)...
+[LOG] XREAL One Pro detected. Sending IMU server activation command...
+[LOG] [1/2] Broadcasting hardware initialization handshake...
+[LOG] [2/2] Triggering IP daemon and streaming server engine...
+[LOG] 
+HID commands successfully delivered! Waking up RNDIS network driver...
+[LOG] Polling network layer. Awaiting connection to 169.254.2.1:52998...
+[LOG] 
+[SUCCESS] Network stack active!
+[LOG] Connected to Xreal at 169.254.2.1:52998
+[LOG] Recenter requested
+[LOG] Loading configuration...
+[LOG] Configuration loaded successfully: OpenTrack=127.0.0.1:4343, Hotkey=R, Xreal=169.254.2.1:52998
+[LOG] Starting XrealTrack tray app...
+[LOG] Initializing USB HID context...
+[LOG] Device Found -> VID: 046d, PID: c52b, Product string: USB Receiver, Interface: 1, Path: "\\\\?\\HID#VID_046D&PID_C52B&MI_01&Col02#a&23fe5a65&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 046d, PID: c52b, Product string: USB Receiver, Interface: 1, Path: "\\\\?\\HID#VID_046D&PID_C52B&MI_01&Col03#a&23fe5a65&0&0002#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 046d, PID: c52b, Product string: USB Receiver, Interface: 1, Path: "\\\\?\\HID#VID_046D&PID_C52B&MI_01&Col04#a&23fe5a65&0&0003#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: fe0f, PID: 00ff, Product string: FakerInput Device, Interface: -1, Path: "\\\\?\\HID#SYSTEM&Col02#1&431a56f&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 046d, PID: c232, Product string: , Interface: -1, Path: "\\\\?\\HID#VID_046D&PID_C232#2&b4b7c37&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}\\KBD"
+[LOG] Device Found -> VID: 046d, PID: c52b, Product string: USB Receiver, Interface: 0, Path: "\\\\?\\HID#VID_046D&PID_C52B&MI_00#a&c3ace20&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}\\KBD"
+[LOG] Device Found -> VID: fe0f, PID: 00ff, Product string: FakerInput Device, Interface: -1, Path: "\\\\?\\HID#SYSTEM&Col03#1&431a56f&0&0002#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 046d, PID: c52b, Product string: USB Receiver, Interface: 0, Path: "\\\\?\\HID#VID_046D&PID_C52B&MI_00#9&370a68&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}\\KBD"
+[LOG] Device Found -> VID: 046d, PID: c277, Product string: RS Pedals, Interface: 1, Path: "\\\\?\\HID#VID_046D&PID_C277&MI_01&Col01#a&2e7a9898&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 046d, PID: c52b, Product string: USB Receiver, Interface: 2, Path: "\\\\?\\HID#VID_046D&PID_C52B&MI_02&Col02#a&271ca3&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 0b05, PID: 19af, Product string: AURA LED Controller, Interface: 2, Path: "\\\\?\\HID#VID_0B05&PID_19AF&MI_02#a&31961952&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 046d, PID: c277, Product string: RS Pedals, Interface: 1, Path: "\\\\?\\HID#VID_046D&PID_C277&MI_01&Col02#a&2e7a9898&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 1234, PID: bead, Product string: vJoy - Virtual Joystick, Interface: -1, Path: "\\\\?\\HID#HIDCLASS#1&2d595ca7&4&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 046d, PID: c52b, Product string: USB Receiver, Interface: 1, Path: "\\\\?\\HID#VID_046D&PID_C52B&MI_01&Col01#9&17fa96ad&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 046d, PID: c52b, Product string: USB Receiver, Interface: 1, Path: "\\\\?\\HID#VID_046D&PID_C52B&MI_01&Col02#9&17fa96ad&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: fe0f, PID: 00ff, Product string: FakerInput Device, Interface: -1, Path: "\\\\?\\HID#SYSTEM&Col04#1&431a56f&0&0003#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: fe0f, PID: 00ff, Product string: FakerInput Device, Interface: -1, Path: "\\\\?\\HID#SYSTEM&Col01#1&431a56f&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}\\KBD"
+[LOG] Device Found -> VID: 046d, PID: c52b, Product string: USB Receiver, Interface: 1, Path: "\\\\?\\HID#VID_046D&PID_C52B&MI_01&Col03#9&17fa96ad&0&0002#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 046d, PID: c52b, Product string: USB Receiver, Interface: 1, Path: "\\\\?\\HID#VID_046D&PID_C52B&MI_01&Col04#9&17fa96ad&0&0003#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 3318, PID: 0436, Product string: XREAL One Pro, Interface: 0, Path: "\\\\?\\HID#VID_3318&PID_0436&MI_00#a&2644af27&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 0d8c, PID: 0005, Product string: Blue Snowball , Interface: 2, Path: "\\\\?\\HID#VID_0D8C&PID_0005&MI_02#c&2be8a553&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: fe0f, PID: 00ff, Product string: FakerInput Device, Interface: -1, Path: "\\\\?\\HID#SYSTEM&Col05#1&431a56f&0&0004#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 046d, PID: c52b, Product string: USB Receiver, Interface: 2, Path: "\\\\?\\HID#VID_046D&PID_C52B&MI_02&Col01#9&2fbe22f2&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 046d, PID: c52b, Product string: USB Receiver, Interface: 2, Path: "\\\\?\\HID#VID_046D&PID_C52B&MI_02&Col02#9&2fbe22f2&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 046d, PID: c52b, Product string: USB Receiver, Interface: 2, Path: "\\\\?\\HID#VID_046D&PID_C52B&MI_02&Col03#9&2fbe22f2&0&0002#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 046d, PID: c52b, Product string: USB Receiver, Interface: 2, Path: "\\\\?\\HID#VID_046D&PID_C52B&MI_02&Col03#a&271ca3&0&0002#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 3318, PID: 0436, Product string: XREAL One Pro, Interface: 5, Path: "\\\\?\\HID#VID_3318&PID_0436&MI_05#a&15b9f195&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: fe0f, PID: 00ff, Product string: FakerInput Device, Interface: -1, Path: "\\\\?\\HID#SYSTEM&Col06#1&431a56f&0&0005#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 046d, PID: c52b, Product string: USB Receiver, Interface: 2, Path: "\\\\?\\HID#VID_046D&PID_C52B&MI_02&Col01#a&271ca3&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 046d, PID: c277, Product string: RS Pedals, Interface: 0, Path: "\\\\?\\HID#VID_046D&PID_C277&MI_00#a&36789598&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 046d, PID: c52b, Product string: USB Receiver, Interface: 1, Path: "\\\\?\\HID#VID_046D&PID_C52B&MI_01&Col01#a&23fe5a65&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Found XReal One Pro Endpoint (vendor: 3318, product: 0436) -> Interface: 0, Path: "\\\\?\\HID#VID_3318&PID_0436&MI_00#a&2644af27&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Opening targeted control interface (Interface 0)...
+[LOG] XREAL One Pro detected. Sending IMU server activation command...
+[LOG] [1/2] Broadcasting hardware initialization handshake...
+[LOG] [2/2] Triggering IP daemon and streaming server engine...
+[LOG] 
+HID commands successfully delivered! Waking up RNDIS network driver...
+[LOG] Polling network layer. Awaiting connection to 169.254.2.1:52998...
+[LOG] 
+[SUCCESS] Network stack active!
+[LOG] Connected to Xreal at 169.254.2.1:52998
+[LOG] Recenter requested
+[LOG] Loading configuration...
+[LOG] Configuration loaded successfully: OpenTrack=127.0.0.1:4343, Hotkey=R, Xreal=169.254.2.1:52998
+[LOG] Starting XrealTrack tray app...
+[LOG] Initializing USB HID context...
+[LOG] Device Found -> VID: 046d, PID: c52b, Product string: USB Receiver, Interface: 1, Path: "\\\\?\\HID#VID_046D&PID_C52B&MI_01&Col02#a&23fe5a65&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 046d, PID: c52b, Product string: USB Receiver, Interface: 1, Path: "\\\\?\\HID#VID_046D&PID_C52B&MI_01&Col03#a&23fe5a65&0&0002#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 046d, PID: c52b, Product string: USB Receiver, Interface: 1, Path: "\\\\?\\HID#VID_046D&PID_C52B&MI_01&Col04#a&23fe5a65&0&0003#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: fe0f, PID: 00ff, Product string: FakerInput Device, Interface: -1, Path: "\\\\?\\HID#SYSTEM&Col02#1&431a56f&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 046d, PID: c232, Product string: , Interface: -1, Path: "\\\\?\\HID#VID_046D&PID_C232#2&b4b7c37&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}\\KBD"
+[LOG] Device Found -> VID: 046d, PID: c52b, Product string: USB Receiver, Interface: 0, Path: "\\\\?\\HID#VID_046D&PID_C52B&MI_00#a&c3ace20&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}\\KBD"
+[LOG] Device Found -> VID: fe0f, PID: 00ff, Product string: FakerInput Device, Interface: -1, Path: "\\\\?\\HID#SYSTEM&Col03#1&431a56f&0&0002#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 046d, PID: c52b, Product string: USB Receiver, Interface: 0, Path: "\\\\?\\HID#VID_046D&PID_C52B&MI_00#9&370a68&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}\\KBD"
+[LOG] Device Found -> VID: 046d, PID: c277, Product string: RS Pedals, Interface: 1, Path: "\\\\?\\HID#VID_046D&PID_C277&MI_01&Col01#a&2e7a9898&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 046d, PID: c52b, Product string: USB Receiver, Interface: 2, Path: "\\\\?\\HID#VID_046D&PID_C52B&MI_02&Col02#a&271ca3&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 0b05, PID: 19af, Product string: AURA LED Controller, Interface: 2, Path: "\\\\?\\HID#VID_0B05&PID_19AF&MI_02#a&31961952&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 046d, PID: c277, Product string: RS Pedals, Interface: 1, Path: "\\\\?\\HID#VID_046D&PID_C277&MI_01&Col02#a&2e7a9898&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 1234, PID: bead, Product string: vJoy - Virtual Joystick, Interface: -1, Path: "\\\\?\\HID#HIDCLASS#1&2d595ca7&4&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 046d, PID: c52b, Product string: USB Receiver, Interface: 1, Path: "\\\\?\\HID#VID_046D&PID_C52B&MI_01&Col01#9&17fa96ad&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 046d, PID: c52b, Product string: USB Receiver, Interface: 1, Path: "\\\\?\\HID#VID_046D&PID_C52B&MI_01&Col02#9&17fa96ad&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: fe0f, PID: 00ff, Product string: FakerInput Device, Interface: -1, Path: "\\\\?\\HID#SYSTEM&Col04#1&431a56f&0&0003#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: fe0f, PID: 00ff, Product string: FakerInput Device, Interface: -1, Path: "\\\\?\\HID#SYSTEM&Col01#1&431a56f&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}\\KBD"
+[LOG] Device Found -> VID: 046d, PID: c52b, Product string: USB Receiver, Interface: 1, Path: "\\\\?\\HID#VID_046D&PID_C52B&MI_01&Col03#9&17fa96ad&0&0002#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 046d, PID: c52b, Product string: USB Receiver, Interface: 1, Path: "\\\\?\\HID#VID_046D&PID_C52B&MI_01&Col04#9&17fa96ad&0&0003#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 3318, PID: 0436, Product string: XREAL One Pro, Interface: 0, Path: "\\\\?\\HID#VID_3318&PID_0436&MI_00#a&2644af27&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 0d8c, PID: 0005, Product string: Blue Snowball , Interface: 2, Path: "\\\\?\\HID#VID_0D8C&PID_0005&MI_02#c&2be8a553&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: fe0f, PID: 00ff, Product string: FakerInput Device, Interface: -1, Path: "\\\\?\\HID#SYSTEM&Col05#1&431a56f&0&0004#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 046d, PID: c52b, Product string: USB Receiver, Interface: 2, Path: "\\\\?\\HID#VID_046D&PID_C52B&MI_02&Col01#9&2fbe22f2&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 046d, PID: c52b, Product string: USB Receiver, Interface: 2, Path: "\\\\?\\HID#VID_046D&PID_C52B&MI_02&Col02#9&2fbe22f2&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 046d, PID: c52b, Product string: USB Receiver, Interface: 2, Path: "\\\\?\\HID#VID_046D&PID_C52B&MI_02&Col03#9&2fbe22f2&0&0002#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 046d, PID: c52b, Product string: USB Receiver, Interface: 2, Path: "\\\\?\\HID#VID_046D&PID_C52B&MI_02&Col03#a&271ca3&0&0002#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 3318, PID: 0436, Product string: XREAL One Pro, Interface: 5, Path: "\\\\?\\HID#VID_3318&PID_0436&MI_05#a&15b9f195&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: fe0f, PID: 00ff, Product string: FakerInput Device, Interface: -1, Path: "\\\\?\\HID#SYSTEM&Col06#1&431a56f&0&0005#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 046d, PID: c52b, Product string: USB Receiver, Interface: 2, Path: "\\\\?\\HID#VID_046D&PID_C52B&MI_02&Col01#a&271ca3&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 046d, PID: c277, Product string: RS Pedals, Interface: 0, Path: "\\\\?\\HID#VID_046D&PID_C277&MI_00#a&36789598&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 046d, PID: c52b, Product string: USB Receiver, Interface: 1, Path: "\\\\?\\HID#VID_046D&PID_C52B&MI_01&Col01#a&23fe5a65&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Found XReal One Pro Endpoint (vendor: 3318, product: 0436) -> Interface: 0, Path: "\\\\?\\HID#VID_3318&PID_0436&MI_00#a&2644af27&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Opening targeted control interface (Interface 0)...
+[LOG] XREAL One Pro detected. Sending IMU server activation command...
+[LOG] [1/2] Broadcasting hardware initialization handshake...
+[LOG] [2/2] Triggering IP daemon and streaming server engine...
+[LOG] 
+HID commands successfully delivered! Waking up RNDIS network driver...
+[LOG] Polling network layer. Awaiting connection to 169.254.2.1:52998...
+[LOG] 
+[SUCCESS] Network stack active!
+[LOG] Connected to Xreal at 169.254.2.1:52998
+[LOG] Recenter requested
+[LOG] Loading configuration...
+[LOG] Configuration loaded successfully: OpenTrack=127.0.0.1:4343, Hotkey=R, Xreal=169.254.2.1:52998
+[LOG] Starting XrealTrack tray app...
+[LOG] Initializing USB HID context...
+[LOG] Device Found -> VID: 046d, PID: c52b, Product string: USB Receiver, Interface: 1, Path: "\\\\?\\HID#VID_046D&PID_C52B&MI_01&Col02#a&23fe5a65&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 046d, PID: c52b, Product string: USB Receiver, Interface: 1, Path: "\\\\?\\HID#VID_046D&PID_C52B&MI_01&Col03#a&23fe5a65&0&0002#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 046d, PID: c52b, Product string: USB Receiver, Interface: 1, Path: "\\\\?\\HID#VID_046D&PID_C52B&MI_01&Col04#a&23fe5a65&0&0003#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: fe0f, PID: 00ff, Product string: FakerInput Device, Interface: -1, Path: "\\\\?\\HID#SYSTEM&Col02#1&431a56f&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 046d, PID: c232, Product string: , Interface: -1, Path: "\\\\?\\HID#VID_046D&PID_C232#2&b4b7c37&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}\\KBD"
+[LOG] Device Found -> VID: 046d, PID: c52b, Product string: USB Receiver, Interface: 0, Path: "\\\\?\\HID#VID_046D&PID_C52B&MI_00#a&c3ace20&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}\\KBD"
+[LOG] Device Found -> VID: fe0f, PID: 00ff, Product string: FakerInput Device, Interface: -1, Path: "\\\\?\\HID#SYSTEM&Col03#1&431a56f&0&0002#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 046d, PID: c52b, Product string: USB Receiver, Interface: 0, Path: "\\\\?\\HID#VID_046D&PID_C52B&MI_00#9&370a68&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}\\KBD"
+[LOG] Device Found -> VID: 046d, PID: c277, Product string: RS Pedals, Interface: 1, Path: "\\\\?\\HID#VID_046D&PID_C277&MI_01&Col01#a&2e7a9898&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 046d, PID: c52b, Product string: USB Receiver, Interface: 2, Path: "\\\\?\\HID#VID_046D&PID_C52B&MI_02&Col02#a&271ca3&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 0b05, PID: 19af, Product string: AURA LED Controller, Interface: 2, Path: "\\\\?\\HID#VID_0B05&PID_19AF&MI_02#a&31961952&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 046d, PID: c277, Product string: RS Pedals, Interface: 1, Path: "\\\\?\\HID#VID_046D&PID_C277&MI_01&Col02#a&2e7a9898&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 1234, PID: bead, Product string: vJoy - Virtual Joystick, Interface: -1, Path: "\\\\?\\HID#HIDCLASS#1&2d595ca7&4&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 046d, PID: c52b, Product string: USB Receiver, Interface: 1, Path: "\\\\?\\HID#VID_046D&PID_C52B&MI_01&Col01#9&17fa96ad&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 046d, PID: c52b, Product string: USB Receiver, Interface: 1, Path: "\\\\?\\HID#VID_046D&PID_C52B&MI_01&Col02#9&17fa96ad&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: fe0f, PID: 00ff, Product string: FakerInput Device, Interface: -1, Path: "\\\\?\\HID#SYSTEM&Col04#1&431a56f&0&0003#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: fe0f, PID: 00ff, Product string: FakerInput Device, Interface: -1, Path: "\\\\?\\HID#SYSTEM&Col01#1&431a56f&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}\\KBD"
+[LOG] Device Found -> VID: 046d, PID: c52b, Product string: USB Receiver, Interface: 1, Path: "\\\\?\\HID#VID_046D&PID_C52B&MI_01&Col03#9&17fa96ad&0&0002#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 046d, PID: c52b, Product string: USB Receiver, Interface: 1, Path: "\\\\?\\HID#VID_046D&PID_C52B&MI_01&Col04#9&17fa96ad&0&0003#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 3318, PID: 0436, Product string: XREAL One Pro, Interface: 0, Path: "\\\\?\\HID#VID_3318&PID_0436&MI_00#a&2644af27&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 0d8c, PID: 0005, Product string: Blue Snowball , Interface: 2, Path: "\\\\?\\HID#VID_0D8C&PID_0005&MI_02#c&2be8a553&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: fe0f, PID: 00ff, Product string: FakerInput Device, Interface: -1, Path: "\\\\?\\HID#SYSTEM&Col05#1&431a56f&0&0004#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 046d, PID: c52b, Product string: USB Receiver, Interface: 2, Path: "\\\\?\\HID#VID_046D&PID_C52B&MI_02&Col01#9&2fbe22f2&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 046d, PID: c52b, Product string: USB Receiver, Interface: 2, Path: "\\\\?\\HID#VID_046D&PID_C52B&MI_02&Col02#9&2fbe22f2&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 046d, PID: c52b, Product string: USB Receiver, Interface: 2, Path: "\\\\?\\HID#VID_046D&PID_C52B&MI_02&Col03#9&2fbe22f2&0&0002#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 046d, PID: c52b, Product string: USB Receiver, Interface: 2, Path: "\\\\?\\HID#VID_046D&PID_C52B&MI_02&Col03#a&271ca3&0&0002#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 3318, PID: 0436, Product string: XREAL One Pro, Interface: 5, Path: "\\\\?\\HID#VID_3318&PID_0436&MI_05#a&15b9f195&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: fe0f, PID: 00ff, Product string: FakerInput Device, Interface: -1, Path: "\\\\?\\HID#SYSTEM&Col06#1&431a56f&0&0005#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 046d, PID: c52b, Product string: USB Receiver, Interface: 2, Path: "\\\\?\\HID#VID_046D&PID_C52B&MI_02&Col01#a&271ca3&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 046d, PID: c277, Product string: RS Pedals, Interface: 0, Path: "\\\\?\\HID#VID_046D&PID_C277&MI_00#a&36789598&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 046d, PID: c52b, Product string: USB Receiver, Interface: 1, Path: "\\\\?\\HID#VID_046D&PID_C52B&MI_01&Col01#a&23fe5a65&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Found XReal One Pro Endpoint (vendor: 3318, product: 0436) -> Interface: 0, Path: "\\\\?\\HID#VID_3318&PID_0436&MI_00#a&2644af27&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Opening targeted control interface (Interface 0)...
+[LOG] XREAL One Pro detected. Sending IMU server activation command...
+[LOG] [1/2] Broadcasting hardware initialization handshake...
+[LOG] [2/2] Triggering IP daemon and streaming server engine...
+[LOG] 
+HID commands successfully delivered! Waking up RNDIS network driver...
+[LOG] Polling network layer. Awaiting connection to 169.254.2.1:52998...
+[LOG] 
+[SUCCESS] Network stack active!
+[LOG] Connected to Xreal at 169.254.2.1:52998
+[LOG] Recenter requested
+[LOG] Xreal read error: Connection closed
+[LOG] Xreal read error: Connection closed
+[LOG] Xreal read error: Connection closed
+[LOG] Xreal read error: Connection closed
+[LOG] Xreal read error: Connection closed
+[LOG] Xreal read error: Connection closed
+[LOG] Xreal read error: Connection closed
+[LOG] Xreal read error: Connection closed
+[LOG] Xreal read error: Connection closed
+[LOG] Xreal read error: Connection closed
+[LOG] Xreal read error: Connection closed
+[LOG] Xreal read error: Connection closed
+[LOG] Xreal read error: Connection closed
+[LOG] Xreal read error: Connection closed
+[LOG] Xreal read error: Connection closed
+[LOG] Xreal read error: Connection closed
+[LOG] Xreal read error: Connection closed
+[LOG] Xreal read error: Connection closed
+[LOG] Xreal read error: Connection closed
+[LOG] Xreal read error: Connection closed
+[LOG] Xreal read error: Connection closed
+[LOG] Xreal read error: Connection closed
+[LOG] Loading configuration...
+[LOG] Configuration loaded successfully: OpenTrack=127.0.0.1:4343, Hotkey=R, Xreal=169.254.2.1:52998
+[LOG] Starting XrealTrack tray app...
+[LOG] Initializing USB HID context...
+[LOG] Device Found -> VID: 046d, PID: c52b, Product string: USB Receiver, Interface: 1, Path: "\\\\?\\HID#VID_046D&PID_C52B&MI_01&Col02#a&23fe5a65&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 046d, PID: c52b, Product string: USB Receiver, Interface: 1, Path: "\\\\?\\HID#VID_046D&PID_C52B&MI_01&Col03#a&23fe5a65&0&0002#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 046d, PID: c52b, Product string: USB Receiver, Interface: 1, Path: "\\\\?\\HID#VID_046D&PID_C52B&MI_01&Col04#a&23fe5a65&0&0003#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: fe0f, PID: 00ff, Product string: FakerInput Device, Interface: -1, Path: "\\\\?\\HID#SYSTEM&Col02#1&431a56f&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 046d, PID: c232, Product string: , Interface: -1, Path: "\\\\?\\HID#VID_046D&PID_C232#2&b4b7c37&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}\\KBD"
+[LOG] Device Found -> VID: 046d, PID: c52b, Product string: USB Receiver, Interface: 0, Path: "\\\\?\\HID#VID_046D&PID_C52B&MI_00#a&c3ace20&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}\\KBD"
+[LOG] Device Found -> VID: fe0f, PID: 00ff, Product string: FakerInput Device, Interface: -1, Path: "\\\\?\\HID#SYSTEM&Col03#1&431a56f&0&0002#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 046d, PID: c52b, Product string: USB Receiver, Interface: 0, Path: "\\\\?\\HID#VID_046D&PID_C52B&MI_00#9&370a68&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}\\KBD"
+[LOG] Device Found -> VID: 046d, PID: c277, Product string: RS Pedals, Interface: 1, Path: "\\\\?\\HID#VID_046D&PID_C277&MI_01&Col01#a&2e7a9898&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 046d, PID: c52b, Product string: USB Receiver, Interface: 2, Path: "\\\\?\\HID#VID_046D&PID_C52B&MI_02&Col02#a&271ca3&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 0b05, PID: 19af, Product string: AURA LED Controller, Interface: 2, Path: "\\\\?\\HID#VID_0B05&PID_19AF&MI_02#a&31961952&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 046d, PID: c277, Product string: RS Pedals, Interface: 1, Path: "\\\\?\\HID#VID_046D&PID_C277&MI_01&Col02#a&2e7a9898&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 1234, PID: bead, Product string: vJoy - Virtual Joystick, Interface: -1, Path: "\\\\?\\HID#HIDCLASS#1&2d595ca7&4&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 046d, PID: c52b, Product string: USB Receiver, Interface: 1, Path: "\\\\?\\HID#VID_046D&PID_C52B&MI_01&Col01#9&17fa96ad&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 046d, PID: c52b, Product string: USB Receiver, Interface: 1, Path: "\\\\?\\HID#VID_046D&PID_C52B&MI_01&Col02#9&17fa96ad&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: fe0f, PID: 00ff, Product string: FakerInput Device, Interface: -1, Path: "\\\\?\\HID#SYSTEM&Col04#1&431a56f&0&0003#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: fe0f, PID: 00ff, Product string: FakerInput Device, Interface: -1, Path: "\\\\?\\HID#SYSTEM&Col01#1&431a56f&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}\\KBD"
+[LOG] Device Found -> VID: 046d, PID: c52b, Product string: USB Receiver, Interface: 1, Path: "\\\\?\\HID#VID_046D&PID_C52B&MI_01&Col03#9&17fa96ad&0&0002#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 046d, PID: c52b, Product string: USB Receiver, Interface: 1, Path: "\\\\?\\HID#VID_046D&PID_C52B&MI_01&Col04#9&17fa96ad&0&0003#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 3318, PID: 0436, Product string: XREAL One Pro, Interface: 0, Path: "\\\\?\\HID#VID_3318&PID_0436&MI_00#a&2644af27&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 0d8c, PID: 0005, Product string: Blue Snowball , Interface: 2, Path: "\\\\?\\HID#VID_0D8C&PID_0005&MI_02#c&2be8a553&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: fe0f, PID: 00ff, Product string: FakerInput Device, Interface: -1, Path: "\\\\?\\HID#SYSTEM&Col05#1&431a56f&0&0004#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 046d, PID: c52b, Product string: USB Receiver, Interface: 2, Path: "\\\\?\\HID#VID_046D&PID_C52B&MI_02&Col01#9&2fbe22f2&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 046d, PID: c52b, Product string: USB Receiver, Interface: 2, Path: "\\\\?\\HID#VID_046D&PID_C52B&MI_02&Col02#9&2fbe22f2&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 046d, PID: c52b, Product string: USB Receiver, Interface: 2, Path: "\\\\?\\HID#VID_046D&PID_C52B&MI_02&Col03#9&2fbe22f2&0&0002#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 046d, PID: c52b, Product string: USB Receiver, Interface: 2, Path: "\\\\?\\HID#VID_046D&PID_C52B&MI_02&Col03#a&271ca3&0&0002#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 3318, PID: 0436, Product string: XREAL One Pro, Interface: 5, Path: "\\\\?\\HID#VID_3318&PID_0436&MI_05#a&15b9f195&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: fe0f, PID: 00ff, Product string: FakerInput Device, Interface: -1, Path: "\\\\?\\HID#SYSTEM&Col06#1&431a56f&0&0005#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 046d, PID: c52b, Product string: USB Receiver, Interface: 2, Path: "\\\\?\\HID#VID_046D&PID_C52B&MI_02&Col01#a&271ca3&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 046d, PID: c277, Product string: RS Pedals, Interface: 0, Path: "\\\\?\\HID#VID_046D&PID_C277&MI_00#a&36789598&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Device Found -> VID: 046d, PID: c52b, Product string: USB Receiver, Interface: 1, Path: "\\\\?\\HID#VID_046D&PID_C52B&MI_01&Col01#a&23fe5a65&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Found XReal One Pro Endpoint (vendor: 3318, product: 0436) -> Interface: 0, Path: "\\\\?\\HID#VID_3318&PID_0436&MI_00#a&2644af27&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}"
+[LOG] Opening targeted control interface (Interface 0)...
+[LOG] XREAL One Pro detected. Sending IMU server activation command...
+[LOG] [1/2] Broadcasting hardware initialization handshake...
+[LOG] [2/2] Triggering IP daemon and streaming server engine...
+[LOG] 
+HID commands successfully delivered! Waking up RNDIS network driver...
+[LOG] Polling network layer. Awaiting connection to 169.254.2.1:52998...
+[LOG] 
+[SUCCESS] Network stack active!
+[LOG] Connected to Xreal at 169.254.2.1:52998
+[LOG] Recenter requested
