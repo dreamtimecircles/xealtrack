@@ -1,0 +1,15 @@
+[package]
+name = "xrealtrack"
+version = "0.1.0"
+edition = "2024"
+build = "build.rs" # Instructs cargo to run the build script
+
+[dependencies]
+hidapi = "2.6"
+ini = "1.3.0"
+inputbot = "0.6.0"
+tray-item = "0.10.0"
+xreal_one_driver = { git = "https://github.com/rohitsangwan01/xreal_one_driver", branch = "main" }
+
+[build-dependencies]
+embed-resource = "3.0.9" # Lightweight tool to compile .rc files

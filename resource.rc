@@ -1,0 +1,2 @@
+// Give the icon resource a text-identifier name and link it to the file
+app_icon ICON "app_icon.ico"
